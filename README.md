@@ -6,7 +6,7 @@
 - 🌱 Learning Deep Learning, Data Engineering, and QlikSense Admin Tools
 - 👯 Looking to collaborate on real-world AI/ML projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tohidealam-nadaf/)
-- 🛠️ Tech Stack: Python | TensorFlow | PyTorch | React | Node.js | SQL | MongoDB
+- 🛠️ Skills: Python | TensorFlow | PyTorch | React | Node.js | SQL | MongoDB | QlikSense | C++ | Technical Support
 - ⚡ Fun fact: I love solving real-world problems through tech innovations!
 
 ---
