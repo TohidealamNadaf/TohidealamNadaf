@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Tohidealam Nadaf
+### AI/ML Enthusiast | Full Stack Developer | Data Analyst
 
-<!--
-**TohidealamNadaf/TohidealamNadaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+- 🔭 Currently working on AI-driven web apps and ML projects
+- 🌱 Learning Deep Learning, Data Engineering, and MERN Stack
+- 👯 Looking to collaborate on real-world AI/ML projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tohidealamnadaf/)
+- 🛠️ Tech Stack: Python | TensorFlow | PyTorch | React | Node.js | SQL | MongoDB
+- ⚡ Fun fact: I love solving real-world problems through tech innovations!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
