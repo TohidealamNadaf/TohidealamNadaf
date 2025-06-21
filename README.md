@@ -51,7 +51,6 @@ Git, GitHub, VS Code, Jupyter, Postman, Docker
 ### 📫 Contact Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tohidealam-nadaf/)
 - 🌐 [Portfolio](https://tohidealamportfolio.netlify.app/)
-- ✉️ Email: tohidealamnadaf@gmail.com (optional to include)
 
 ---
 
