@@ -40,8 +40,8 @@ Python, C++, JavaScript, TypeScript, SQL, HTML5, CSS3
 TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
 
 **Frameworks & Platforms:**  
-React.js, Node.js, Express.js, Flask, FastAPI  
-MongoDB, MySQL, PostgreSQL, Power BI, QlikSense  
+Angular, Nest JS, Node.js, Flask, FastAPI  
+MySQL, PostgreSQL, Power BI, QlikSense  
 
 **Dev Tools:**  
 Git, GitHub, VS Code, Jupyter, Postman, Docker  
