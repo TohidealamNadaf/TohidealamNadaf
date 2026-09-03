@@ -1,428 +1,359 @@
-````markdown
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:7c3aed,100:4c1d95&height=210&section=header&text=Tohidealam%20Nadaf&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems+for+Real-World+Problems;Machine+Learning+%7C+Deep+Learning+%7C+Data+Analytics;Designing+Scalable%2C+Secure+and+Production-Ready+Software" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/D.Y.%20Patil-AI%20%26%20ML-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Diploma-Computer%20Science-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://tohidealamportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tohidealam-nadaf/">
-    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tohidealamfnadaf2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/TohidealamNadaf">
-    <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TohidealamNadaf&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/TohidealamNadaf?label=FOLLOWERS&style=for-the-badge&color=6D28D9&labelColor=0D0B16" />
-  <img src="https://img.shields.io/github/stars/TohidealamNadaf?label=STARS&style=for-the-badge&color=8B5CF6&labelColor=0D0B16" />
-</p>
-
----
-
-## About
-
-I am an **AI/ML-focused Software Engineer and Full Stack Developer** passionate about turning complex problems into reliable, usable, and scalable technology.
-
-My engineering interests span **machine learning, deep learning, natural language processing, computer vision, intelligent applications, full-stack development, and data analytics**. I enjoy working across the complete product lifecycle — from understanding a problem and designing the architecture to developing models, building APIs, creating interfaces, and delivering production-oriented solutions.
-
-I approach software engineering with a **product mindset**: technology should not only work, but should solve a meaningful problem, provide a strong user experience, remain maintainable, and create measurable impact.
-
-My current technical focus includes **AI-driven systems, real-time applications, machine learning pipelines, REST APIs, modern web development, data visualization, and intelligent automation**.
-
-### Open To
-
-```text
-Software Engineering
-AI / ML Engineering
-Full Stack Development
-Data & Applied AI Projects
-Research & Open Source Collaboration
-Product-Oriented Engineering Opportunities
-````
-
----
-
-## Tech Stack
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql&theme=dark" />
-</p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,bootstrap&theme=dark" />
-</p>
-
-### Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,fastapi,mysql,postgres,mongodb&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,jupyter,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/QlikSense-009848?style=flat-square&logo=qlik&logoColor=white" />
-</p>
-
----
-
-## AI / ML Expertise
-
-| Domain           | Proficiency  | Details                                                                                  |
-| ---------------- | ------------ | ---------------------------------------------------------------------------------------- |
-| Machine Learning | Advanced     | Model development, preprocessing, evaluation, feature engineering and applied ML systems |
-| Deep Learning    | Advanced     | CNN architectures, transfer learning and intelligent image-based applications            |
-| NLP              | Advanced     | Sentiment analysis, emotion detection, text classification and embeddings                |
-| Computer Vision  | Intermediate | Image classification, visual recognition and intelligent detection workflows             |
-| Audio AI         | Advanced     | Voice analysis, speaker verification and deepfake voice detection                        |
-| Generative AI    | Intermediate | Generative AI concepts, applications and intelligent workflow experimentation            |
-| Data Analytics   | Advanced     | Pandas, SQL, Power BI, QlikSense and data-driven decision support                        |
-| AI Deployment    | Intermediate | Flask APIs, real-time inference, local processing and application integration            |
-
----
-
-## Featured Projects
-
-<details>
-<summary><strong>01 · EchoClean — Real-Time AI Deepfake Voice Detection</strong></summary>
-
-<br />
-
-A privacy-first AI voice authentication and deepfake detection system designed to identify voice impersonation and synthetic audio in real time.
-
-| Attribute       | Details                                                                           |
-| --------------- | --------------------------------------------------------------------------------- |
-| **Stack**       | Python · Flask · JavaScript · Bootstrap · SQLAlchemy · Audio Signal Processing    |
-| **Scale**       | Real-time application architecture                                                |
-| **Performance** | 90%+ detection accuracy · sub-second processing                                   |
-| **Security**    | Privacy-first local audio analysis                                                |
-| **Impact**      | Detects voice impersonation and supports adaptive voice verification              |
-| **Repository**  | [View on GitHub](https://github.com/TohidealamNadaf?tab=repositories&q=EchoClean) |
-
-### Engineering Overview
-
-* Developed a real-time audio processing pipeline for deepfake and impersonation detection.
-* Implemented **29-dimensional feature extraction** from voice signals.
-* Combined cosine similarity, Euclidean distance and correlation-based metrics.
-* Built adaptive threshold detection for practical voice verification workflows.
-* Designed the system to process audio locally while supporting multiple audio formats and real-time recording.
-
-</details>
-
-<details>
-<summary><strong>02 · EmotionSense — Real-Time Chat with Emotion Detection</strong></summary>
-
-<br />
-
-A full-stack communication platform combining real-time messaging with NLP-powered emotion detection.
-
-| Attribute       | Details                                                                              |
-| --------------- | ------------------------------------------------------------------------------------ |
-| **Stack**       | React · Node.js · Socket.IO · Python · Flask · TextBlob · MongoDB                    |
-| **Scale**       | Full-stack real-time web application                                                 |
-| **Performance** | Real-time message delivery with API-based NLP inference                              |
-| **Security**    | Authentication-aware application architecture                                        |
-| **Impact**      | Adds emotional context to digital communication                                      |
-| **Repository**  | [View on GitHub](https://github.com/TohidealamNadaf?tab=repositories&q=EmotionSense) |
-
-### Engineering Overview
-
-* Integrated real-time bi-directional communication using Socket.IO.
-* Designed a Python-based ML service for emotion classification.
-* Connected the NLP service with the web application through REST APIs.
-* Built the application around responsive frontend and modular backend components.
-
-</details>
-
-<details>
-<summary><strong>03 · Global News Monitoring System</strong></summary>
-
-<br />
-
-An AI-powered monitoring platform designed to identify significant global events and analyse the sentiment of incoming news.
-
-| Attribute       | Details                                                                      |
-| --------------- | ---------------------------------------------------------------------------- |
-| **Stack**       | Python · NLP · Sentiment Analysis · Data Processing · Notifications          |
-| **Scale**       | Event-monitoring application                                                 |
-| **Performance** | Automated continuous news analysis                                           |
-| **Security**    | Modular data-processing architecture                                         |
-| **Impact**      | Surfaces important events and sentiment signals for faster awareness         |
-| **Repository**  | [View on GitHub](https://github.com/TohidealamNadaf?tab=repositories&q=News) |
-
-### Engineering Overview
-
-* Analysed incoming news for events such as pandemics, wars and social unrest.
-* Classified news sentiment into positive, negative and neutral categories.
-* Designed automated notification workflows for important detected events.
-* Combined NLP, data processing and application logic into an end-to-end monitoring workflow.
-
-</details>
-
-<details>
-<summary><strong>04 · Computer Vision & Medical AI Experiments</strong></summary>
-
-<br />
-
-A collection of machine learning experiments focused on applying deep learning and computer vision to image-based healthcare and classification problems.
-
-| Attribute       | Details                                                                    |
-| --------------- | -------------------------------------------------------------------------- |
-| **Stack**       | Python · TensorFlow · Keras · CNN · Transfer Learning · OpenCV             |
-| **Scale**       | Applied deep learning experimentation                                      |
-| **Performance** | Model-driven classification workflow                                       |
-| **Security**    | Responsible AI-oriented experimentation                                    |
-| **Impact**      | Explores automated visual recognition for healthcare-oriented use cases    |
-| **Repository**  | [View on GitHub](https://github.com/TohidealamNadaf?tab=repositories&q=ML) |
-
-### Engineering Overview
-
-* Experimented with CNN-based image classification.
-* Studied transfer learning for improved model development efficiency.
-* Applied preprocessing and feature extraction techniques to visual datasets.
-* Explored practical applications of AI in healthcare and image intelligence.
-
-</details>
-
----
-
-## Experience
-
-### Data Science & Machine Learning Intern
-
-**Techno+Logic Group**
-`Jul 2022 – Aug 2022`
-
-Worked on applied machine learning problems involving real-world datasets, model development and intelligent computer-vision workflows.
-
-* Developed machine learning models using **Python and TensorFlow**.
-* Implemented object motion detection techniques.
-* Performed data preprocessing and exploratory analysis.
-* Applied machine learning concepts to practical technology problems.
-* Strengthened foundations in model development, data handling and AI application engineering.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-312E81?style=flat-square" />
-</p>
-
----
-
-## Achievements
-
 <div align="center">
 
-| Recognition                     | Details                                                                                                                                     |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Research Publication**        | Published *AI-Powered Content Moderation*, exploring AI, NLP, computer vision, misinformation, harmful-content detection and responsible AI |
-| **Certificate of Appreciation** | Recognized by Devtown's Community for contribution toward community growth                                                                  |
-| **Academic Performance**        | Strong academic performance throughout AI & ML education                                                                                    |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:EFF6FF,100:F8FAFC&height=200&section=header&text=Tohidealam%20Nadaf&fontSize=44&fontColor=1E3A8A&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=17&descColor=2563EB" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&background=FFFFFF00&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%7C+Angular+%2B+NestJS;AI%2FML+Engineer+in+Training;Building+Agentic+%26+LLM-Powered+Systems;Open+to+SWE+%2F+AI-ML+%2F+Full+Stack+Roles" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.E.%20CSE%20(AI%2FML)-D.Y.%20Patil%20Agriculture%20%26%20Technical%20University-EFF6FF?style=flat-square&labelColor=FFFFFF&color=2563EB"/>
+<img src="https://img.shields.io/badge/Graduating-June%202026-EFF6FF?style=flat-square&labelColor=FFFFFF&color=2563EB"/>
+<img src="https://img.shields.io/badge/📍-Kolhapur,%20Maharashtra,%20India-EFF6FF?style=flat-square&labelColor=FFFFFF&color=2563EB"/>
+
+<br/><br/>
+
+<a href="https://tohidealamportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tohidealam-nadaf/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2563EB&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=2563EB&labelColor=FFFFFF"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=2563EB&labelColor=FFFFFF"/>
 
 </div>
 
 ---
 
-## Certifications
+## 🧠 About Me
 
-### AWS
+I'm a final-year Computer Science engineer (AI/ML specialization) currently working as a **Full Stack Developer Intern**, building ERP modules in production with **Angular 17**, **NestJS**, and **Microsoft SQL Server**. Alongside that, I design and ship independent AI/ML and full-stack systems — from real-time deepfake voice detection to LangChain-powered natural-language automation.
 
-<p>
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-Community%20Bootcamp-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </a>
-</p>
+My focus sits at the intersection of **software engineering rigor** and **applied AI/ML** — I care about systems that are deterministic where they need to be, and intelligent where it counts. I'm equally comfortable in a codebase's architecture as I am designing the model or pipeline sitting on top of it.
 
-**Deep Learning and Deployment on Web** — AWS Community Bootcamp
-
-### Microsoft
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft-Career%20Essentials%20in%20Generative%20AI-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-### IBM
-
-<p>
-  <img src="https://img.shields.io/badge/IBM-Data%20Visualization%20with%20R-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
-
-### Infosys
-
-<p>
-  <img src="https://img.shields.io/badge/Infosys-Introduction%20to%20Data%20Science-4C1D95?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Infosys-High%20Impact%20Presentation-312E81?style=for-the-badge" />
-</p>
-
-### Google Developer Student Clubs
-
-<p>
-  <img src="https://img.shields.io/badge/GDSC-Amazon%20Clone%20Bootcamp-7C3AED?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### Other Credentials
-
-<p>
-  <img src="https://img.shields.io/badge/HP%20LIFE-Resume%20Writing%20%26%20Job%20Interviewing-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Imperial%20College%20London-Android%20Graphics-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/LinkedIn-The%20Cybersecurity%20Threat%20Landscape-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/MKCL-Maharashtra%20State%20Certificate%20in%20IT-312E81?style=flat-square" />
-</p>
+**🎯 Open To:**
+- Software Engineer / Full Stack Developer roles
+- AI/ML Engineer roles
+- GSoC 2027 contribution opportunities
+- Collaborative open-source work in AI tooling and developer platforms
 
 ---
 
-## Coding Profiles
+## 🧰 Tech Stack
 
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-4C1D95?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,html,css&theme=light"/>
 
----
+**Frontend**
+<img src="https://skillicons.dev/icons?i=angular,react,tailwind,materialui&theme=light"/>
 
-## GitHub Analytics
+**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,flask,fastapi,mysql,postgres,sqlite,mssql&theme=light"/>
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=TohidealamNadaf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B16&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1" />
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=TohidealamNadaf&hide_border=true&background=0D0B16&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
-</p>
+**AI / ML & Data**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=light"/>
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohidealamNadaf&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B16&title_color=A78BFA&text_color=CBD5E1" />
-</p>
+**Cloud, DevOps & Tooling**
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,azure,jupyter&theme=light"/>
 
 ---
 
-## GitHub Trophies
+## 🤖 AI / ML Expertise
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TohidealamNadaf&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
+<div align="center">
 
----
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Deep Learning | ⭐⭐⭐⭐ | CNNs, speaker embeddings, real-time inference pipelines (PyTorch, TensorFlow) |
+| NLP & LLM Systems | ⭐⭐⭐⭐ | LangChain orchestration, Gemini API integration, agentic prompt design |
+| Multi-Agent Systems | ⭐⭐⭐ | AutoGen-based autonomous agent swarms, Azure OpenAI |
+| Classical ML | ⭐⭐⭐⭐ | Scikit-learn pipelines, feature engineering, model evaluation |
+| Data Engineering & BI | ⭐⭐⭐ | Pandas/NumPy pipelines, Power BI & QlikSense dashboards |
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TohidealamNadaf&custom_title=Contribution%20Activity&bg_color=0D0B16&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TohidealamNadaf/TohidealamNadaf/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-</p>
+</div>
 
 ---
 
-## Current Focus
+## 🚀 Featured Projects
+
+<details>
+<summary><strong>🎙️ EchoClean — Real-Time Deepfake Voice Detection</strong></summary>
+<br/>
+
+Real-time system for detecting synthetic/deepfake speech and verifying speaker identity, built around low-latency inference for practical deployment.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, PyTorch, audio feature pipelines |
+| **Scale** | Real-time streaming inference |
+| **Performance** | 80%+ detection accuracy at <300ms inference latency |
+| **Security** | Speaker verification layer to reduce impersonation risk |
+| **Impact** | Portfolio flagship — demonstrates applied deep learning under latency constraints |
+| **Repository** | [github.com/YOUR_GITHUB_USERNAME/echoclean](https://github.com/YOUR_GITHUB_USERNAME) |
+
+Built to explore how far detection accuracy can be pushed while staying within real-time latency budgets, using compact audio embeddings rather than heavyweight models.
+
+</details>
+
+<details>
+<summary><strong>🧩 SprintMind — Natural Language → Jira Ticket Generator</strong></summary>
+<br/>
+
+Converts plain-English feature requests into structured Jira tickets, closing the gap between product conversations and backlog grooming.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Angular → NestJS → LangChain → Jira REST API → Google Gemini |
+| **Scale** | Single-pipeline request → ticket generation flow |
+| **Performance** | Deterministic ticket structuring on top of LLM-generated content |
+| **Security** | Server-side API key handling, no client-exposed credentials |
+| **Impact** | Featured project across resumes; demonstrates end-to-end LLM app integration |
+| **Repository** | [github.com/YOUR_GITHUB_USERNAME/sprintmind](https://github.com/YOUR_GITHUB_USERNAME) |
+
+Originally scoped around the Anthropic API, migrated to Google's Gemini API to keep the project self-funded and accessible.
+
+</details>
+
+<details>
+<summary><strong>🏗️ CodeShift AI — Legacy ASP.NET → Angular/NestJS Migration Platform</strong></summary>
+<br/>
+
+An agentic AI desktop platform (Electron + TypeScript) designed to migrate a large legacy ASP.NET Web Forms application (~4,500 files, ~3,000 forms, VB.NET code-behind) into a modern Angular + NestJS stack — without losing original naming or business logic.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Electron.js, TypeScript, multi-model LLM orchestration, deterministic parsers |
+| **Scale** | ~4,500 source files / ~3,000 forms in target migration scope |
+| **Performance** | Iterative contract-verified code generation with automated fix loops |
+| **Security** | Strictly read-only source repo access; configurable cloud / private / offline AI modes |
+| **Impact** | Designed for enterprise migration workloads with human-review checkpoints |
+| **Repository** | *(in design/planning phase)* |
+
+Core principle: **"AI decides what to do; software decides what is true."** Every AI-generated form is checked against a machine-readable "Migration Contract" and verified deterministically — compilation, tests, and contract matching — rather than trusting a single model's self-review.
+
+</details>
+
+<details>
+<summary><strong>📚 Novel & Manhwa Reader — Cross-Platform Reading App</strong></summary>
+<br/>
+
+A React Native/Capacitor app for reading web novels and manhwa, with a scraper-registry architecture supporting multiple sources.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | React Native, Capacitor, SQLite, Zustand, React Query |
+| **Scale** | Multi-source scraper registry (FreeWebNovel, NovelFire, Asura Scans, MangaFire) |
+| **Performance** | Two-phase loading architecture, chapter virtualization for large series |
+| **Security** | Proxy-based scraping with circuit breakers and rate limiting to avoid abuse |
+| **Impact** | Solved real anti-bot/Cloudflare challenges via sitemap-based indexing and sticky proxy sessions |
+| **Repository** | [github.com/YOUR_GITHUB_USERNAME/novel-reader](https://github.com/YOUR_GITHUB_USERNAME) |
+
+Refactored from an over-engineered multi-pattern structure into a clean, interface-based feature-folder architecture — with built-in TTS reading support.
+
+</details>
+
+<details>
+<summary><strong>📊 Nex-Grid — High-Scale Angular Data Grid</strong></summary>
+<br/>
+
+An enterprise-style Angular data grid built to handle very large datasets without UI degradation.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Angular, Web Workers |
+| **Scale** | 1M+ rows rendered client-side |
+| **Performance** | Off-main-thread processing via Web Workers to keep UI responsive |
+| **Security** | N/A (client-side rendering component) |
+| **Impact** | Demonstrates frontend performance engineering at scale |
+| **Repository** | [github.com/YOUR_GITHUB_USERNAME/nex-grid](https://github.com/YOUR_GITHUB_USERNAME) |
+
+</details>
+
+<details>
+<summary><strong>🔐 Decentralized Voting System</strong></summary>
+<br/>
+
+A cryptographically verifiable voting system exploring blockchain-adjacent integrity guarantees without a full blockchain stack.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | ECDSA (secp256k1), SHA-256 hash chaining |
+| **Scale** | Proof-of-concept ballot chain |
+| **Performance** | Lightweight cryptographic verification per vote |
+| **Security** | Tamper-evident hash chaining, signature-based vote authenticity |
+| **Impact** | Explores integrity/security primitives applicable to real voting infrastructure |
+| **Repository** | [github.com/YOUR_GITHUB_USERNAME/decentralized-voting](https://github.com/YOUR_GITHUB_USERNAME) |
+
+</details>
+
+<details>
+<summary><strong>🤝 SwarmOps — Autonomous Data Pipeline Auditor</strong></summary>
+<br/>
+
+A multi-agent system that autonomously audits data pipelines, built during a hackathon exploration of agent swarms.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | AutoGen multi-agent framework, Azure OpenAI, Streamlit |
+| **Scale** | Hackathon proof-of-concept |
+| **Performance** | Parallel agent auditing roles (detection, validation, reporting) |
+| **Security** | N/A (prototype scope) |
+| **Impact** | Explored practical multi-agent orchestration patterns beyond single-LLM pipelines |
+| **Repository** | [github.com/YOUR_GITHUB_USERNAME/swarmops](https://github.com/YOUR_GITHUB_USERNAME) |
+
+</details>
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern
+**Compserv Consultants Pvt Ltd** · Kolhapur, Maharashtra
+`Current`
+
+Working on ERP modules end-to-end across the frontend and backend, integrated with an enterprise SQL Server data layer.
+
+- Built and maintained ERP features using **Angular 17** on the frontend
+- Developed backend services and APIs with **NestJS**
+- Worked directly with **Microsoft SQL Server** for ERP data modeling and queries
+- Collaborated within an existing enterprise codebase and delivery workflow
+
+**Skills:** `Angular 17` `NestJS` `TypeScript` `Microsoft SQL Server` `REST APIs` `ERP Systems`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| *(Add achievement)* | *(e.g., hackathon placement, competitive programming milestone, publication)* |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+> Grouped by provider — replace with your actual certification badges/links.
+
+**AWS**
+- *(Add certification name + credential link)*
+
+**Oracle**
+- *(Add certification name + credential link)*
+
+**NPTEL**
+- *(Add certification name + credential link)*
+
+**Cisco**
+- *(Add certification name + credential link)*
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=2563EB"/></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-FFFFFF?style=for-the-badge&logo=geeksforgeeks&logoColor=2563EB"/></a>
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=2563EB"/></a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-FFFFFF?style=for-the-badge&logo=codechef&logoColor=2563EB"/></a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=333333" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=333333" width="48%"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true&bg_color=FFFFFF&color=2563EB&line=2563EB&point=1E3A8A"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+> Generated via the `platane/snk` GitHub Action — set up a workflow in your profile repo to auto-generate this weekly.
+
+---
+
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Deep Learning Architectures
-  - CNNs
-  - Transformers
-  - Data Engineering
-  - Pipeline Automation
-  - QlikSense Administration
-
-Building:
-  - AI-powered real-time systems
-  - Full-stack applications
-  - Intelligent REST APIs
-  - Machine Learning pipelines
-  - Data visualization platforms
-
-Exploring:
-  - Generative AI
-  - NLP
-  - Embeddings
-  - Computer Vision
-  - Voice Intelligence
-  - Responsible AI
-
-Open To:
-  - Software Engineering
-  - AI/ML Engineering
-  - Full Stack Development
-  - Research Collaboration
-  - Open Source
-  - Product Engineering
+current_focus:
+  learning:
+    - Deep Learning Architectures (CNNs, Transformers)
+    - Data Engineering & Pipeline Automation
+    - QlikSense Admin Tools & Business Dashboards
+  building:
+    - CodeShift AI — legacy ASP.NET to Angular/NestJS migration platform
+    - Novel & Manhwa Reader — React Native/Capacitor app
+  exploring:
+    - Multi-agent orchestration (LangGraph, AutoGen)
+    - GSoC 2027 contribution paths
+  open_to:
+    - Software Engineer roles
+    - AI/ML Engineer roles
+    - Full Stack Developer roles
+    - Open-source collaboration
 ```
 
 ---
 
-## Connect
+## 📬 Connect
 
-<p align="center">
-  <a href="mailto:tohidealamfnadaf2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tohidealam-nadaf/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/TohidealamNadaf">
-    <img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://tohidealamportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-312E81?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tohidealam-nadaf/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tohidealamportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
 
 ---
 
-<p align="center">
-  <em>“Build technology that solves real problems, scales with purpose, and creates lasting impact.”</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:312e81&height=120&section=footer" width="100%" />
-</p>
-```
+*"Build systems that are deterministic where it matters, and intelligent where it counts."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:EFF6FF,100:F8FAFC&height=120&section=footer" width="100%"/>
+
+</div>
